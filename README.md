@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou o João Victor 👋
 
-![SuzuhRevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzuhRevv&show_icons=true&theme=radical)
+![VictorZeroR's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorZeroR&show_icons=true&theme=radical)
 
 ### Tecnologias que eu já utilizei
 <div style="display: flex; flex-wrap: wrap; align-items: start;"><br/>
